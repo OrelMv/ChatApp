@@ -1,0 +1,48 @@
+.messagesBody{
+    margin-right: 240px;
+}
+
+.messagesBox{
+    width: 800px;
+    height: 580px;
+    border: 2px solid black;
+    background-color: linen;
+    overflow-y: auto;
+}
+
+.sendBtn{
+    width: 15%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 13px 15px;
+    border: none;
+    cursor: pointer;
+  }
+
+.textBox{
+    width: 80.7%;
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+
+
+.msgBody{
+  font-family: cursive;
+  font-size: 18px;
+  word-break: break-word;
+
+}
+
+.msgTime{
+  margin-left: 4px;
+  font-family: cursive;
+  font-size: 13px;
+}
+
+.userName{
+  font-family: cursive;
+  font-size: 13px;
+}
+
