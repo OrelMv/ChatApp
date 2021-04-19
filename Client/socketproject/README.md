@@ -1,4 +1,5 @@
 # Chat Application test
+Chat application using React.js, Socket.io and MongoDB
 
 ### Introduction
 - This project allows people to cummunicate with each other through chat
