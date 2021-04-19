@@ -1,4 +1,4 @@
-# Chat Application test
+# Chat Application
 Chat application using React.js, Socket.io and MongoDB
 
 ### Introduction
