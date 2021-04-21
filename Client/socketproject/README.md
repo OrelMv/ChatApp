@@ -11,6 +11,12 @@ If you want to run this project, it is necessary to connect to it a MongoDB data
 activeUsersDB with one collection -> each document has username(string) and room(number).\
 When you run this project you can leave this collection empty.
 
+### Set up
+- Run index.js file in Rest_API file
+- In Client/socketproject file run:
+1. npm install
+2. npm start
+
 ### Server Side In Detail
 - Data base that contains the active users information (user is considered active if he connect to the socket).
 - JSON file that contains the messages for each room.
