@@ -2,8 +2,8 @@
 Chat application using React.js, Socket.io and MongoDB
 
 ### Introduction
-- This project allows people to cummunicate with each other through chat
-- They have the option to choose their room they would like to cummunicate
+- This project allows people to communicate with each other through chat
+- They have the option to choose their room they would like to communicate
 - My incentive to build this project is to practice how to work with socket.io
 
 ### Prerequisite
