@@ -8,8 +8,7 @@ Chat application using React.js, Socket.io and MongoDB
 
 ## Prerequisite
 If you want to run this project, it is necessary to connect to it a MongoDB data base:\
-activeUsersDB with one collection -> each document has username(string) and room(number).\
-When you run this project you can leave this collection empty.
+activeUsersDB with one empty collection -> "activeusers" 
 
 ## Set up
 - Run index.js file in Rest_API file
