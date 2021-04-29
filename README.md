@@ -11,10 +11,12 @@ If you want to run this project, it is necessary to connect to it a MongoDB data
 activeUsersDB with one empty collection -> "activeusers" 
 
 ## Set up
-- Run index.js file in Rest_API file
-- In Client/socketproject file run:
+- In Rest_API file run:
 1. npm install
-2. npm start
+2. index.js file
+- In Client/socketproject file run:
+3. npm install
+4. npm start
 
 ## Server Side In Detail
 - Data base that contains the active users information (user is considered active if he connect to the socket).
