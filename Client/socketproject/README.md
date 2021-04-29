@@ -11,7 +11,9 @@ If you want to run this project, it is necessary to connect to it a MongoDB data
 activeUsersDB with one empty collection -> "activeusers" 
 
 ## Set up
-- Run index.js file in Rest_API file
+- In Rest_API file run:
+1. npm install
+2. index.js file
 - In Client/socketproject file run:
 1. npm install
 2. npm start
